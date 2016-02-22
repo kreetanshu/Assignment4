@@ -1,0 +1,16 @@
+1) Ruby has primitive data types?
+
+Ans b) No
+
+2) & ! || - These operators belongs to
+Ans a) Logical Operators
+
+3) What is IRB?
+Ans c) Interactive Ruby
+
+4) IRB is
+Ans a)  Command Line shell
+
+5) Object is
+
+Ans b) Blue Print of a Class
